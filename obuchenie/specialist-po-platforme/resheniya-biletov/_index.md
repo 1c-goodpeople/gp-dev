@@ -11,7 +11,7 @@ title: Решения билетов
 
 </note>
 
-## Решенные билеты по Проходцеву:
+## Все решенные билеты, по Проходцеву:
 
 [vse-fajly-resheniya-ekzamena-1s-specialist-po-platforme.zip](./vse-fajly-resheniya-ekzamena-1s-specialist-po-platforme.zip)
 
