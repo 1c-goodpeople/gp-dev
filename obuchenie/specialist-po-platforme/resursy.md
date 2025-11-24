@@ -29,4 +29,6 @@ title: Ресурсы
 
 -  <http://infostart.ru/public/146332/>
 
+-  [t.me/spec1c](http://t.me/spec1c) - ТГ-чат «**Аттестация "1С:Специалист по платформе"**»
+
 
