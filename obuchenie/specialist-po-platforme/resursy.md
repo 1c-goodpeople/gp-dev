@@ -15,7 +15,7 @@ title: Ресурсы
 
 ### Полезные ссылки
 
--   <http://infostart.ru/public/102366/>
+-  <http://infostart.ru/public/102366/>
 
 -  <http://infostart.ru/public/102366/> -- много нужной информации и полезные рекомендации по сдаче;
 
