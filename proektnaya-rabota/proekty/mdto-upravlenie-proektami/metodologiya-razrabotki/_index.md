@@ -47,7 +47,7 @@ title: Методология разработки
 
 #### Схема связи основных объектов, организующие маршрутизацию Бизнес-процессов
 
-<drawio path="./metodologiya-razrabotki.svg" width="211px" height="101px"/>
+<drawio path="./_index.svg" width="211px" height="101px"/>
 
 ## Роли пользователей и функционал
 
